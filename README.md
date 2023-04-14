@@ -1,32 +1,42 @@
 # pandas-challenge
-#District Summary
-#Total number of unique schools
+##District Summary
+*Total number of unique schools*
 15
-#Total students
+<br/>
+*Total students*
 39170
-#Total budget
+<br/>
+*Total budget*
 $24,649,428.00
-#Average Math Score
+<br/>
+*Average Math Score*
 78.99
-#Average Reading Score
+<br/>
+*Average Reading Score*
 81.88
-#% Passing Math
+<br/>
+*% Passing Math*
 The percentage of students that passed math
 75%
-#% Passing Reading
+<br/>
+*% Passing Reading*
 The percentage of student that passed reading
 86%
-#% Overall Passing
+<br/>
+*% Overall Passing*
 The percentage of students that passed math AND reading
 65%
+<br/>
 #School Summary
 While District Schools tend to have a higher budget per student and a higher number of students than Charter Schools, Charter schools' students are more likely to receive a high score on the math and reading exams and are more likely to pass these exams.
-
+<br/>
 #Drawing conclusions
-#Sending your student to a Charter School will likely help them score well on the math and reading exams.
+*Sending your student to a Charter School will likely help them score well on the math and reading exams.*
 Students at charter school had higher score averages on these exams and are more likely to pass the exams. This means your student could benefit from attending this type of school, if a high exam score is desired.
-#Greater funding per student does not mean higher scores on the math and reading exams
+<br/>
+*Greater funding per student does not mean higher scores on the math and reading exams*
 Some of the lowest funded per student school appear the highest performing schools for this exam while some of the bottom performing schools have the highest amount of funding per student. This means that high funding per student should not be considered as beneficial if looking to enroll in a school that educates students on passing these exams.
+<br/>
 
 
 #References
