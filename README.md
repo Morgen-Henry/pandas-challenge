@@ -1,7 +1,7 @@
 # pandas-challenge
 <h1>District Summary</h1>
 <br/>
-**Total number of unique schools: **
+__Total number of unique schools: __
 15
 <br/>
 **Total students: **
